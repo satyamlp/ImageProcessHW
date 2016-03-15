@@ -1,0 +1,8 @@
+G:\OneDrive\Documents\Materials\C#\Working\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+G:\OneDrive\Documents\Materials\C#\Working\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\v-malsat\Desktop\Satya\VSProjects\ImageProject\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\v-malsat\Desktop\Satya\VSProjects\ImageProject\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\v-malsat\Desktop\Satya\VSProjects\ImageProject\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\v-malsat\Desktop\Satya\VSProjects\ImageProject\ImageProcessing\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\v-malsat\Desktop\Satya\VSProjects\ImageProject\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\v-malsat\Desktop\Satya\VSProjects\ImageProject\ImageProcessing\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
